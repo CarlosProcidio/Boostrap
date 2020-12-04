@@ -1,6 +1,5 @@
 body {
-    background-color: aquamarine;
-    color           : #000;
+
 }
 
 .col-2 {
@@ -9,7 +8,7 @@ body {
 }
 
 .col-4 {
-    background-color: rgb(226, 197, 168);
+    background-color: #fff;
 }
 
 .col-12 {
